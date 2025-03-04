@@ -73,7 +73,6 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%; 
-    position: absolute;
 }
 @media (max-width: 450px){
     .nav-item1 h1{
