@@ -63,6 +63,18 @@ body{
     text-align: center;
     margin-top: 10px;
 }
+
+footer {
+    background-color: #588157;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%; 
+    position: absolute;
+}
 @media (max-width: 450px){
     .nav-item1 h1{
         font-size: 3.5rem;
@@ -76,3 +88,4 @@ body{
         font-size: 3rem;
     }
 }
+
